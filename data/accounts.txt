@@ -1,0 +1,3 @@
+board:boring:1
+bobcat:bear:1026
+scott:bear:1024
