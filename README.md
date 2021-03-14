@@ -1,4 +1,5 @@
-![alt text](https://github.com/blewett/Message-Board-Proto-in-PHP/images/message-board.jpg?raw=true)
+
+![alt text](https://github.com/blewett/Message-Board-Proto-in-PHP/blob/main/images/message-board.jpg?raw=true)
 
 # Message-Board-Proto-in-PHP
 
