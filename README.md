@@ -1,3 +1,5 @@
+![alt text](https://github.com/blewett/Message-Board-Proto-in-PHP/images/message-board.jpg?raw=true)
+
 # Message-Board-Proto-in-PHP
 
 This is a prototype message board where users can send messages to other users.  The system is written in a very easy to follow version of PHP.  Place this software in your /var/www/html/messages directory and you are ready to go with a very cheap version of twitter.
